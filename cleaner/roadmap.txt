@@ -1,0 +1,4 @@
+Keep images loaded, enable switching between images
+folder loading
+re-enable bubble detection heuristic
+...

@@ -16,4 +16,4 @@ L  			- image leveling "dialog"
 	LEFTCLICK - set lower leveling threshhold to the brightness of the current pixel
 	RIGHTCLICK- set upper leveling threshhold to the brightness of the current pixel
 	
-	Closing the leveling dialog will 
+	Closing the leveling dialog/window will level the main image
