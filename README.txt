@@ -1,4 +1,4 @@
-README
+As of now only works with JPEG.
 
 HOW TO USE
 
